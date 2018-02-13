@@ -1,0 +1,654 @@
+[22-Sep-2015 10:42:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/header.php:5) in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/product1.php on line 193
+[22-Sep-2015 10:43:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/header.php:180) in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/product1.php on line 193
+[22-Sep-2015 10:43:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/header.php:215) in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/product1.php on line 193
+[01-Oct-2015 13:28:18 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 872
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 986
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1009
+[01-Oct-2015 13:28:57 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1023
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[01-Oct-2015 13:29:47 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 04:36:52 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 04:37:22 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 04:37:54 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 04:38:42 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4
+[02-Oct-2015 04:39:32 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4
+[02-Oct-2015 04:40:09 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 04:40:09 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 04:40:09 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 04:40:09 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 04:40:10 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 04:40:10 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 04:40:10 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 04:58:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 05:11:26 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 06:18:14 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:25:31 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:26:12 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:27:13 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:29:35 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:30:00 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:30:50 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:33:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:33:45 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:33:45 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:33:45 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:33:45 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:33:46 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:35:50 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 07:36:19 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:13:26 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:14:00 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:14:00 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:14:00 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:14:00 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:14:01 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:14:34 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:15:03 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:15:03 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:15:03 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:15:03 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:15:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:15:50 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:16:26 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:17:39 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:18:12 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:18:12 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:18:12 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:18:12 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:18:13 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:21:29 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 10:22:03 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 12:49:23 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 13:07:05 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 13:07:23 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 13:09:44 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 13:10:00 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[02-Oct-2015 13:11:18 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 03:57:59 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 08:46:05 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 09:56:17 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 09:56:48 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 09:57:29 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 09:58:14 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:58:14 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:58:14 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:58:14 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 09:58:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 09:59:19 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:00:11 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:04:05 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:04:05 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:04:05 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:04:05 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:04:06 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:09:26 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:10:04 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:10:05 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:10:05 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:10:05 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:10:50 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:10:50 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:10:50 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:10:50 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:10:52 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:11:34 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:11:34 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:11:34 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:11:34 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:11:35 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:12:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:12:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:12:04 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:12:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:12:05 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:13:13 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:13:13 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:13:13 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:13:13 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:13:14 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:14:25 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:14:43 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:14:43 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:14:43 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:14:43 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:14:44 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:15:28 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:15:28 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:15:28 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:15:28 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:15:30 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:15:57 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:15:57 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:15:57 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:15:57 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:15:58 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:16:15 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:16:15 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:16:15 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:16:15 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:16:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:16:40 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:16:40 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:16:40 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:16:40 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:16:41 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:17:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:17:39 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:17:39 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:17:40 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:24:52 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:25:16 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:25:55 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:25:55 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:25:55 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:25:55 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:25:56 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:27:09 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:28:24 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:41:34 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:02 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 26
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:42:02 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:24 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 26
+[03-Oct-2015 10:42:24 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:24 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:24 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:24 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:42:25 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 26
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:42:56 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:43:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 26
+[03-Oct-2015 10:43:13 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:43:13 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:43:13 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:43:13 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:43:14 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:43:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 26
+[03-Oct-2015 10:43:35 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:43:35 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:43:35 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:43:35 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:43:36 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:05 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:05 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:05 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:05 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:44:06 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:29 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:29 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:29 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:29 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:44:30 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:47 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:47 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:47 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:47 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:44:48 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:45:03 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:45:03 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:45:03 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:45:03 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:45:04 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined offset: 1 in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: btnsubmit in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 11
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: btnupdate in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 246
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: flg in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 309
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined variable: row in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 873
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined index: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 987
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Undefined variable: stat in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1010
+[03-Oct-2015 10:45:22 UTC] PHP Notice:  Use of undefined constant Backorder - assumed 'Backorder' in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/stock3.php on line 1024
+[03-Oct-2015 10:58:11 UTC] PHP Notice:  Undefined index: q in /home/pragmaoffshore/public_html/www.daxeshfurnituremall.com/ManageStock/get_course_list2.php on line 4

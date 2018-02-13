@@ -1,0 +1,5 @@
+area
+student
+division
+stud_register
+subadmin
