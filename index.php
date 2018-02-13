@@ -94,7 +94,7 @@ if($_REQUEST["msg"]<>"")
 		
 
           </form>
-     	<!--<a href="forgotpass.php"><center><h4>Forgotten your password?</h4></center></a>-->
+     	<a href="forgotpass.php"><center><h4>Forgotten your password?</h4></center></a>
 		
       </div>
 
